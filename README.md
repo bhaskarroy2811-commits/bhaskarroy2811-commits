@@ -19,16 +19,12 @@
 - ⚙️ Tools: VS Code, Git, GitHub  
 - 📚 Core Subjects: Data Structures, Algorithms (in progress)
 
----
-
-## 📈 GitHub Stats  
-<!-- You can add GitHub stats here later -->
 
 ---
 
 ## 📫 Connect with Me  
-- ✉️ Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- ✉️ Email: bhaskarroy2811@gmail.com  
+- 💼 LinkedIn:www.linkedin.com/in/bhashkar-kumar-79172036a
 
 ---
 
